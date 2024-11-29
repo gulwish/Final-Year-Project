@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "302861312270",
+    "firebase_url": "https://labouronline-1b365-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "labouronline-1b365",
+    "storage_bucket": "labouronline-1b365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302861312270:android:3fc1659e39b2083463375f",
+        "android_client_info": {
+          "package_name": "com.example.kaamsay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302861312270-fpnrq5iuag9sg4r2v2it9ab5er8hhdvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXmW-LRJLfyHf7KX_7YixLGIrISMOu_dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302861312270-fpnrq5iuag9sg4r2v2it9ab5er8hhdvh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302861312270-89158du8k5p5pasl5kgjcl0c7gaa3fl8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.labourpk.labouronline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302861312270:android:70c86d0fb1361c7363375f",
+        "android_client_info": {
+          "package_name": "com.kaamsay.kaamsay_hirer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302861312270-9uq6c45hdk8iqt71v35g2rqojl6go10k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaamsay.kaamsay_hirer",
+            "certificate_hash": "2f24753e05eda160cb746f9f1332356f144ef692"
+          }
+        },
+        {
+          "client_id": "302861312270-fpnrq5iuag9sg4r2v2it9ab5er8hhdvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXmW-LRJLfyHf7KX_7YixLGIrISMOu_dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302861312270-fpnrq5iuag9sg4r2v2it9ab5er8hhdvh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302861312270-89158du8k5p5pasl5kgjcl0c7gaa3fl8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.labourpk.labouronline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302861312270:android:afa7e056aec7d82463375f",
+        "android_client_info": {
+          "package_name": "com.kaamsay.kaamsay_worker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302861312270-b35joaifu6btmkfhu5jvj2t38nf04pjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaamsay.kaamsay_worker",
+            "certificate_hash": "2f24753e05eda160cb746f9f1332356f144ef692"
+          }
+        },
+        {
+          "client_id": "302861312270-fpnrq5iuag9sg4r2v2it9ab5er8hhdvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXmW-LRJLfyHf7KX_7YixLGIrISMOu_dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302861312270-fpnrq5iuag9sg4r2v2it9ab5er8hhdvh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302861312270-89158du8k5p5pasl5kgjcl0c7gaa3fl8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.labourpk.labouronline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302861312270:android:3c6be0feb088f6eb63375f",
+        "android_client_info": {
+          "package_name": "com.kaamsay.kaamsaymobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302861312270-mm13uech8lqhlu82tvrs0aqlgq9m8l0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaamsay.kaamsaymobile",
+            "certificate_hash": "2f24753e05eda160cb746f9f1332356f144ef692"
+          }
+        },
+        {
+          "client_id": "302861312270-fpnrq5iuag9sg4r2v2it9ab5er8hhdvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXmW-LRJLfyHf7KX_7YixLGIrISMOu_dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302861312270-fpnrq5iuag9sg4r2v2it9ab5er8hhdvh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302861312270-89158du8k5p5pasl5kgjcl0c7gaa3fl8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.labourpk.labouronline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
