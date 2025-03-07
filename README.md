@@ -6,21 +6,14 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Flow chart
 
 ![flowChart-KS](https://github.com/user-attachments/assets/e05814e3-2468-4dc4-88a2-36128a29bae5)
 
 # UseCase Diagram
 
-![UseCase-KS](https://github.com/user-attachments/assets/89bf8c5e-4671-4196-9809-fec89120eb22)
+![UseCase-KS](https://github.com/user-attachments/assets/ff5d2771-384a-422e-9d07-895cc64b08a6)
+
 
 
 # Class Diagram
